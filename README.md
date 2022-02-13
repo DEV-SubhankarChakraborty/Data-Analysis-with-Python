@@ -1,2 +1,4 @@
 # Data-Analysis-with-Python
-Data Analysis has been around for a long time. But up until a few years ago, developers practiced it using expensive, closed-source tools like Tableau. But recently, Python, SQL, and other open libraries have changed Data Analysis forever.  In the Data Analysis with Python Certification, you'll learn the fundamentals of data analysis with Python. By the end of this certification, you'll know how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
+This code is the answer for all the certification project of Data-Analysis-with-Python in Freecodecamp.org(https://www.freecodecamp.org/learn/data-analysis-with-python/). So, please do not copy and paste it. Try to understand the code then do it urself. If anything you don't understand, please feel free and ask question.
+
+Thank You SUBHANKAR-CHAKRABORTY
